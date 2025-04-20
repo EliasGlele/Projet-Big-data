@@ -1,6 +1,6 @@
 🚗 Analyse de l'Impact des Conditions Météorologiques sur les Accidents Routiers
 
-Projet réalisé dans le cadre des mathématiques pour le Big Data, basé sur une problématique personnelle : "La pluie augmente-t-elle réellement le nombre d'accidents de la route ?"
+Projet basé sur une problématique : "La pluie augmente-t-elle réellement le nombre d'accidents de la route ?"
 
 🎯 Objectifs
 
