@@ -14,7 +14,7 @@ Les résultats montrent que si la météo n'affecte pas directement la fréquenc
 1. Téléchargement
 
 Rendez-vous sur la page du dépôt GitHub.
-Téléchargez le rapport complet en cliquant sur le fichier Projet_Mathématiques_Big_Data.pdf ou via le bouton "Code" > "Télécharger ZIP".
+Téléchargez le rapport complet en cliquant sur le fichier Projet_Big_Data.pdf ou via le bouton "Code" > "Télécharger ZIP".
 2. Lecture du Rapport
 
 Ouvrez le fichier PDF avec un lecteur de documents standard (Adobe Reader, navigateur web, etc.).
